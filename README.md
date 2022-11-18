@@ -6,8 +6,7 @@ Mounts using the basic m3x8 hardware that the original parts mounted with.
 
 Included are the fles for a spacer to fill the gap between the frame and the panels to help with heat loss, this is not needed but will help. 
 I have installed some 12mmx6mm adhesive draft excluder found easily on amazon.
-You will need to print 8 of each "part 1" and "part 2" to fit each side, they will not totally fill the gap, 
-there is a small space left on the top and bottom to allow gripping the panel to remove it.
+Print in the Quantities listed at the end of each file name
 
 
 required hardware:
