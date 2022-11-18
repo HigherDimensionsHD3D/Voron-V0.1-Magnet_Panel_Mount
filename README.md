@@ -1,4 +1,9 @@
 # Voron-V0.1-Magnet_Panel_Mount
+
+*** CHANGES ***
+*Extended Gap Fillers to reduce gaps. Top/Bottom Filler extended 10.25 mm. Side/Side Filler Extended 2.5 mm
+*Added the Stock Voron 3mm front panel stls for ease of access and consolidatation. 
+
 converts the current voron v0.1 panel mounting parts into easily removeable magnetic mounts.
 Perfect for switching between abs/pla without the hassle of unscrewing everytime.
 
